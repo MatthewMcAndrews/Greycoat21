@@ -1,0 +1,17 @@
+- Hi, I’m @Greycoat21
+- I’m interested in:
+    - Test Driven Development (TDD)
+    - Continuous Integration (CI)
+    - Continuous Delivery (CD)
+    - Refactoring
+    - Clean Code
+    - Run-Time Type Reflection
+    - Design Principles
+- I’m currently learning about:
+    - Data Structures
+    - Algorithms
+    - GoLang
+- I’m looking to collaborate on a small project.
+<!---
+- How to reach me 
+--->
